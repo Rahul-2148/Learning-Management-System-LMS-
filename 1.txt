@@ -4,3 +4,42 @@
 2. kn sa user kn sa course liya h ya purchase kiya h,
 3. course progress bar,
 4. etc etc ... some bugs are there 🥲😭🚀
+.
+.
+.
+.
+
+
+🔸Future features:
+Proper Setting part feature where bhot sare chijien hon.
+
+✨ Student-Dashboard features :
+Cetificate feature
+Invoice 🧾 see and download feature
+payment history feature
+Chatting and messages with friends, teatures & groups features 
+NotesMaker 📖 features
+proper Notifiation 🔔 system features
+setting / genuine Progress tracker feature
+All saved resources and add resources
+setting / change password feature
+setting / logout button
+login / forgot password feature
+for payment avi stripe used h but baad me razorpay or paypal or apna khud ka upi system add kr sakte h and also cash on delivery bhi add krenge.
+
+✨ admin feature
+. admin can  manage students and teachers
+. see and purchase courses according to student need and then watch all course lectures videos
+. admin give platform to the student and or teacher and charge money 
+. organize subscription feature so admin can earn money
+.
+.
+.
+
+✨ Teacher role also add And then teacher feature
+. teacher can manage all students
+. add courses
+. give grades or marks
+. organize quizzes
+.
+.
